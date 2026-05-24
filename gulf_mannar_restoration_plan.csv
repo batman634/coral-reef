@@ -1,0 +1,3 @@
+Target_Site,Target_Region,Target_Location,Bleach_Risk_%,Risk_Level,Donor_Site,Donor_Region,Donor_Location,Donor_Compatibility,Recommended_Species,Species_Common_Name,Suitability_Score_%,Num_Fragments,Nursery_Size,Growth_Weeks,Est_Fragment_Size_cm,Base_Survival_Rate_%,Condition_Factor_%,Final_Survival_Rate_%,Estimated_Surviving_Fragments,Bleach_Sensitivity,Adaptation_Time_Weeks
+Mannar North,North,"8.5001°N, 78.2022°E",52.4,HIGH,Mannar North,North,"8.5001°N, 78.2022°E",93.6,Porites_lobata,Lobe Coral,85.0,120,Medium (60-80 tanks),10,5.4,82.0,100.0,69.7,83,Moderate,8
+Neduntheevu,Southwest,"8.9979°N, 79.2994°E",27.2,LOW,Mannar Central,Central,"8.0004°N, 78.7983°E",62.6,Turbinatia_mesenterina,Disc Coral,100.0,30,Minimal (10-15 tanks),6,5.1,90.0,100.0,73.8,22,Low,11

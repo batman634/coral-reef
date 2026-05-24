@@ -1,0 +1,9 @@
+Site_Name,Date,Predicted_Damage_State,Bleach_Risk_%,Healthy_Prob_%,Risk_Level
+Mannar Central,2026-10-19,healthy,7.8999667,79.27231,LOW
+Krusadai Island,2026-11-07,severe_bleach,14.21086,8.170626,LOW
+Mannar North,2026-11-22,bleached,52.389694,26.96261,HIGH
+Palk Bay North,2026-12-04,healthy,13.042519,80.039505,LOW
+Mannar South,2026-12-11,healthy,11.94328,74.74393,LOW
+Mudaliar Point,2026-12-14,healthy,10.367166,76.90726,LOW
+Neduntheevu,2026-12-16,healthy,27.221766,47.22739,LOW
+Rameswaram Deep,2026-12-26,healthy,11.101718,63.43695,LOW
